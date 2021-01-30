@@ -3,7 +3,7 @@
 
 ---
 
-### License & copyright
+## License & copyright
 
 © Deepanshu Prasad
 
