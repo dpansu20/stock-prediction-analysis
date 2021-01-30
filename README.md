@@ -5,6 +5,6 @@
 
 ## License & copyright
 
-© Deepanshu Prasad
+© 2020 Deepanshu Prasad
 
 Licensed under the [MIT Licence](LICENSE).
