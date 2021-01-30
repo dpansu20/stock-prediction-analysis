@@ -5,6 +5,6 @@
 
 ## License & copyright
 
-© 2020 Deepanshu Prasad
+© Deepanshu Prasad, National Institute of Technology, Surat.
 
 Licensed under the [MIT Licence](LICENSE).
